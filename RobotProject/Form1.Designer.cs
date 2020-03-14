@@ -132,9 +132,9 @@
             this.cb_pause.AutoSize = true;
             this.cb_pause.Location = new System.Drawing.Point(998, 6);
             this.cb_pause.Name = "cb_pause";
-            this.cb_pause.Size = new System.Drawing.Size(80, 17);
+            this.cb_pause.Size = new System.Drawing.Size(56, 17);
             this.cb_pause.TabIndex = 9;
-            this.cb_pause.Text = "checkBox1";
+            this.cb_pause.Text = "Pause";
             this.cb_pause.UseVisualStyleBackColor = true;
             // 
             // Form1
